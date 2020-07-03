@@ -1,5 +1,6 @@
-# Natural-Language-Processing
-   ***Natural Language Processing*** is a subfield of Artificial Intelligence that deals with the interaction between Humans and computers using common natural language. Using this branch, computer can understand, analyze derives meaning from human language and understands how human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like ***Text Summarization, Named Entity Recognition, Text Translation, Relationship Between Words, Sentiment Analysis, Topic Segmentation, Speech Recognition*** etc.
+# Natural Language Processing
+   ***Natural Language Processing*** is a subfield of Artificial Intelligence that deals with the interaction between Humans and computers using common natural language. Using this branch, computer can understand, analyze and derives meaning from human language and understands how
+   human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like ***Text Summarization, Named Entity Recognition, Text Translation, Relationship Between Words, Sentiment Analysis, Topic Segmentation, Speech Recognition*** etc.
  
 # Platform
   ***Jupyter Notebook*** is a open source web based environment for creating documents. You can run your python scripts on this environment. You can Jupyter Notebook install using following command: *pip install notebook*
@@ -15,7 +16,7 @@
   • **iNLTK** : iNLTK is a library specially supports indian langauges. iNLTK aims to provide out of the box support for various NLP tasks
   
   
-# Contents : Natural Language Processing HandsOn
+# Contents : Natural Language Processing Hands-On
 
 ***Part : 1  Introduction to NLTK***  
 

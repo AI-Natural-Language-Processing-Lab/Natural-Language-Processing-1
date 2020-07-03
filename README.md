@@ -3,7 +3,7 @@
    human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like ***Text Summarization, Named Entity Recognition, Text Translation, Relationship Between Words, Sentiment Analysis, Topic Segmentation, Speech Recognition*** etc.
  
 # Platform
-  ***Jupyter Notebook*** is a open source web based environment for creating documents. You can run your python scripts on this environment. You can Jupyter Notebook install using following command: *pip install notebook*
+  ***Jupyter Notebook*** is a open source web based environment for creating documents. You can run your python scripts on this environment. You can install Jupyter Notebook  using following command: *pip install notebook*
 
 # Tools used in Natural Language Processing
 

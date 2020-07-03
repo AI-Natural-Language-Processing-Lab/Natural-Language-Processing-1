@@ -1,24 +1,24 @@
 # Natural-Language-Processing
-   Natural Language Processing is a subfield of Artificial Intelligence that deals with the interaction between Humans and computers using common natural language. Using this branch, computer can understand, analyze derives meaning from human language and understands how human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like text summarization, named entity recognition, text translation, relationship between words, sentiment analysis, topic segmentation, speech recognition etc.
+   ***Natural Language Processing*** is a subfield of Artificial Intelligence that deals with the interaction between Humans and computers using common natural language. Using this branch, computer can understand, analyze derives meaning from human language and understands how human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like text summarization, named entity recognition, text translation, relationship between words, sentiment analysis, topic segmentation, speech recognition etc.
  
 # Platform
-  Jupyter Notebook is a open source web based environment for creating documents. You can run your python scripts on this environment. You can Jupyter Notebook install using following command: pip install notebook
+  ***Jupyter Notebook*** is a open source web based environment for creating documents. You can run your python scripts on this environment. You can Jupyter Notebook install using following command: *pip install notebook*
 
 # Tools used in Natural Language Processing
 
   You can use open source NLP libraries listed below:
   
-  • NLTK : NLTK is a Natural LAnguage Toolkit is a collection of programs and libraries for Statistical NLP for English Language
+  • **NLTK** : NLTK is a Natural LAnguage Toolkit is a collection of programs and libraries for Statistical NLP for English Language
   
-  • spaCy : spaCy is a open source library for NLP that contains advanced features. spacy tools supports 16 different languages.
+  • **spaCy** : spaCy is a open source library for NLP that contains advanced features. spacy tools supports 16 different languages.
   
-  • Genism : It is a python library used for document indexing, topic modelling etc.
+  • **Genism** : It is a python library used for document indexing, topic modelling etc.
   
-  • iNLTK : iNLTK is a library specially supports indian langauges. iNLTK aims to provide out of the box support for various NLP tasks
+  • **iNLTK** : iNLTK is a library specially supports indian langauges. iNLTK aims to provide out of the box support for various NLP tasks
   
   
 # Contents : Natural Language Processing HandsOn
-Part 1  Introduction to NLTK  
+***Part 1  Introduction to NLTK***  
 
 	•	1 Download NLTK
 	•	2 IMPORT BROWN CORPUS AND ACCESSING DATA
@@ -56,7 +56,7 @@ Additional
 	•	14 Length of Smallest Sentence
 	•	15 Part of speech
 
-Part 2: STEMMING OF WORDS
+***Part 2: STEMMING OF WORDS***
 
 	•	1  PorterStemmer
 	•	2  SnowballStemmer
@@ -64,13 +64,13 @@ Part 2: STEMMING OF WORDS
 	•	4  RegexpStemmer
 	•	5  LancasterStemmer
 
-Part 3 : Wordnet, CMU Pronouncing Dictionary and Stopwords
+***Part 3 : Wordnet, CMU Pronouncing Dictionary and Stopwords***
 
 	•	1 WordNet
 	•	2 CMU Pronounciation Dictionary
 	•	3 StopWords
 
-Part 4 : SIMPLE TEXT CLASSIFIER
+***Part 4 : Text Classification using Naive Bayes Classifier***
 
 	•	1  Import and Access names corpus
 	•	2  Import random Library
@@ -80,7 +80,7 @@ Part 4 : SIMPLE TEXT CLASSIFIER
 	•	5  Classify names using classifier
 	•	6  Accuracy of Test set
 
-Part 5 : Vectorisers & Cosine Similarity
+***Part 5 : Vectorisers & Cosine Similarity***
 	
 	•	1  Import CountVectorizer
 	•	2  Define Corpus
@@ -88,7 +88,7 @@ Part 5 : Vectorisers & Cosine Similarity
 	•	4  Transform into Vector
 	•	5  Cosine Similarity
 
-Part 6 : for Marathi Language
+***Part 6 : Tasks for Marathi Language***
 
 	•	1  Import and Access Marathi Language
 	•	2  Words From Speciefied File
@@ -106,7 +106,7 @@ Part 6 : for Marathi Language
 	•	13 Wheather a character is vowel or consonant?
 	•	14 Cosine Similarity	
 
-Text Pipeline Processing
+***Part 7  :  Text Pipeline Processing***
 
 	•	1 Import and Access Corpus
 	•	2 Corpus - product_reviews_2, Access fileids
@@ -123,7 +123,7 @@ Text Pipeline Processing
 			o	3 Lemmatizer
 	•	6 Part of Speech Tagging
 	
-Functionality using NLP Tool:Spacy Tool
+***Part 8 : Functionality using NLP Tool:Spacy Tool***
 
 	•	1 Import and Load Model for english Language
 	•	2 Preprocessing Step : Tokenization and stopwords
@@ -133,7 +133,7 @@ Functionality using NLP Tool:Spacy Tool
 	•	6 Conclusion
 	•	7 References
 
-Web Scrapping for News Article
+***Part 9 : Web Scrapping for News Article***
 
 	•	1 Extracting text from url for news article
 	•	2 Preprocessing and cleaning the text
@@ -141,7 +141,13 @@ Web Scrapping for News Article
 	•	4 POS Tagging
 	•	5 Named Entity Recognition
 	
-Sentiment Analysis using Logistic Regression
+***Part 10 : Word Embedding and Chunking***
+
+	•  	1 One-hot encoding (CountVectorizing)
+	•	2 TF-IDF transforming
+	•	3 Chunking
+	
+***Part 11 : Sentiment Analysis using Logistic Regression***
 
 	•	1 Loading the dataset	
 	•	2 Transforming Docs into Feature Vectors
@@ -149,20 +155,8 @@ Sentiment Analysis using Logistic Regression
 	•	4 Doc classification using Logistic Regression
 	•	5 Model Evaluation
 	
-Review 2
+***Part 12 : Bigram Model***
 
-	•	1 Word Embedding
-	•	2 Tokenization
-	•	3 POS Tagging
-	•	4 Chunking
-	•	5 Functionalities on Regional Language
-			o 1.Import and Access Marathi Language
-			o 2.Tokenization
-			o 3.Frequency of Most Common Words
-			o 4.Stemmer : RegexpStemmer
-			o 5.WordEmbedding
-			o 6.Wheather a character is vowel or consonant?
-			o 7. Cosine Similarity
-	•	6 Research paper about Regional Languages in NLP perspective
-	•	7 Applications
-			
+	•	1 Tokenization
+	•	2 Remove Stopwords
+	•	3 bigram_collocation		

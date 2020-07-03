@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-   ***Natural Language Processing*** is a subfield of Artificial Intelligence that deals with the interaction between Humans and computers using common natural language. Using this branch, computer can understand, analyze derives meaning from human language and understands how human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like text summarization, named entity recognition, text translation, relationship between words, sentiment analysis, topic segmentation, speech recognition etc.
+   ***Natural Language Processing*** is a subfield of Artificial Intelligence that deals with the interaction between Humans and computers using common natural language. Using this branch, computer can understand, analyze derives meaning from human language and understands how human communication text place. Natural Language Processing have hierarchical structure of language such as characters, words, sentence, text etc. Natural Language Processing helps real-world applications like ***Text Summarization, Named Entity Recognition, Text Translation, Relationship Between Words, Sentiment Analysis, Topic Segmentation, Speech Recognition*** etc.
  
 # Platform
   ***Jupyter Notebook*** is a open source web based environment for creating documents. You can run your python scripts on this environment. You can Jupyter Notebook install using following command: *pip install notebook*
@@ -11,14 +11,13 @@
   • **NLTK** : NLTK is a Natural LAnguage Toolkit is a collection of programs and libraries for Statistical NLP for English Language
   
   • **spaCy** : spaCy is a open source library for NLP that contains advanced features. spacy tools supports 16 different languages.
-  
-  • **Genism** : It is a python library used for document indexing, topic modelling etc.
-  
+    
   • **iNLTK** : iNLTK is a library specially supports indian langauges. iNLTK aims to provide out of the box support for various NLP tasks
   
   
 # Contents : Natural Language Processing HandsOn
-***Part 1  Introduction to NLTK***  
+
+***Part : 1  Introduction to NLTK***  
 
 	•	1 Download NLTK
 	•	2 IMPORT BROWN CORPUS AND ACCESSING DATA
@@ -56,7 +55,7 @@ Additional
 	•	14 Length of Smallest Sentence
 	•	15 Part of speech
 
-***Part 2: STEMMING OF WORDS***
+***Part 2 : STEMMING OF WORDS***
 
 	•	1  PorterStemmer
 	•	2  SnowballStemmer
@@ -106,7 +105,7 @@ Additional
 	•	13 Wheather a character is vowel or consonant?
 	•	14 Cosine Similarity	
 
-***Part 7  :  Text Pipeline Processing***
+***Part 7 :  Text Pipeline Processing***
 
 	•	1 Import and Access Corpus
 	•	2 Corpus - product_reviews_2, Access fileids
